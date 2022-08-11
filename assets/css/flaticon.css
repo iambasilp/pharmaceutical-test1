@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/") format("truetype"),
+url("../fonts/") format("woff"),
+url("../fonts/./flaticon.woff2") format("woff2"),
+url("../fonts/./flaticon.eot") format("embedded-opentype"),
+url("../fonts/./flaticon.svg") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-shopping-cart:before {
+    content: "\f101";
+}
+.flaticon-list:before {
+    content: "\f102";
+}
+.flaticon-triangle:before {
+    content: "\f103";
+}
+.flaticon-hemoglobin-test-meter:before {
+    content: "\f104";
+}
+.flaticon-blood-test:before {
+    content: "\f105";
+}
+.flaticon-biochemistry:before {
+    content: "\f106";
+}
+.flaticon-bacteria:before {
+    content: "\f107";
+}
+.flaticon-heart:before {
+    content: "\f108";
+}
+.flaticon-dna:before {
+    content: "\f109";
+}
+.flaticon-dna-1:before {
+    content: "\f10a";
+}
+.flaticon-ct-scan:before {
+    content: "\f10b";
+}
+.flaticon-experiment:before {
+    content: "\f10c";
+}
+.flaticon-premium-badge:before {
+    content: "\f10d";
+}
+.flaticon-rating:before {
+    content: "\f10e";
+}
+.flaticon-target:before {
+    content: "\f10f";
+}
+.flaticon-approval:before {
+    content: "\f110";
+}
+.flaticon-chemistry:before {
+    content: "\f111";
+}
+.flaticon-report:before {
+    content: "\f112";
+}
+.flaticon-flask:before {
+    content: "\f113";
+}
+.flaticon-placeholder:before {
+    content: "\f114";
+}
+.flaticon-mail:before {
+    content: "\f115";
+}
+.flaticon-24-hours:before {
+    content: "\f116";
+}
+.flaticon-microscope:before {
+    content: "\f117";
+}
+.flaticon-thinking:before {
+    content: "\f118";
+}
+.flaticon-24-hours-1:before {
+    content: "\f119";
+}
+.flaticon-team:before {
+    content: "\f11a";
+}
+.flaticon-comment:before {
+    content: "\f11b";
+}
+.flaticon-user:before {
+    content: "\f11c";
+}
